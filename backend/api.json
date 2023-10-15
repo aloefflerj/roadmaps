@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "How does the internet work?",
-        "link": "",
-        "url-key": ""
+        "link": "https://github.com/aloefflerj/roadmaps/blob/main/backend/steps/how-does-the-internet-work.md",
+        "url-key": "how-does-the-internet-work"
     }
 ]
