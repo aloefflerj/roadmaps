@@ -1,6 +1,6 @@
 ## How does the internet work?
 
-![explaining](../imgs/explaining.png)
+![code-explaining](../imgs/explaining.png)
 
 A network is a group of devices connected to each other:
 
