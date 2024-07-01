@@ -2,7 +2,7 @@
 
 So, what happens when I access a web page? How does my computer knows where that page is? Where it is? How does the content is shown in my web browser almost instantly?
 
-Let's try this page: [http://www.pudim.com.br](http://www.pudim.com.br).
+Let's try this page: [https://random.cat/view/500](https://random.cat/view/500).
 
 1. I open my web browser and fill in the address bar with the website address;
 2. My web browser takes that information and sends a message through a series of protocols, known as:
