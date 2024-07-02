@@ -16,8 +16,4 @@ Let's try this page: [https://random.cat/view/500](https://random.cat/view/500).
 
 ---
 
-<details>
-    <summary>Details</summary>
-    https://roadmap.sh/guides/what-is-internet
-</details>
 ![networkx4](https://github.com/aloefflerj/roadmaps/assets/51006938/103974cb-619f-43f0-9518-7b9092619a29)
