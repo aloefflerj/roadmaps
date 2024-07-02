@@ -1,6 +1,6 @@
 ## How does the internet work?
 
-So, what happens when I access a web page? How does my computer knows where that page is? Where it is? How does the content is shown in my web browser almost instantly?
+So, what happens when I access a web page? How does my computer knows where that page is? How does the content is shown in my web browser almost instantly?
 
 Let's try this page: [https://random.cat/view/500](https://random.cat/view/500).
 
@@ -16,4 +16,8 @@ Let's try this page: [https://random.cat/view/500](https://random.cat/view/500).
 
 ---
 
+<details>
+    <summary>Details</summary>
+    https://roadmap.sh/guides/what-is-internet
+</details>
 ![networkx4](https://github.com/aloefflerj/roadmaps/assets/51006938/103974cb-619f-43f0-9518-7b9092619a29)
