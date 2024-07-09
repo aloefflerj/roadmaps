@@ -12,7 +12,7 @@ It is a network of smaller networks connected by a series of standardized protoc
 
 These networks are connected by a complex network of routers and switches.
 
-![routers-and-switches](https://github.com/aloefflerj/roadmaps/assets/51006938/554cc2d9-cfc9-48e4-bc3a-a6f92b676825)
+![routers-and-switches](https://github.com/aloefflerj/roadmaps/assets/51006938/90c4efb7-7670-4f5c-9762-99fe82da1b26)
 
 There are undersea cables that form the backbone of the internet. These are fiber optic cables that run deep under the ocean and are used to transmit data between continents.
 
