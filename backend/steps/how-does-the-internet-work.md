@@ -10,7 +10,11 @@ It is a network of smaller networks connected by a series of standardized protoc
 
 ![sending-file-network](https://github.com/aloefflerj/roadmaps/assets/51006938/d6e888a3-06e7-4aa3-a26a-b936f270fc41)
 
-These networks are connected by a complex network of routers and switches. There are undersea cables that form the backbone of the internet. These are fiber optic cables that run deep under the ocean and are used to transmit data between continents.
+These networks are connected by a complex network of routers and switches.
+
+![routers-and-switches](https://github.com/aloefflerj/roadmaps/assets/51006938/554cc2d9-cfc9-48e4-bc3a-a6f92b676825)
+
+There are undersea cables that form the backbone of the internet. These are fiber optic cables that run deep under the ocean and are used to transmit data between continents.
 
 [*cables on the ocean floor*]
 
