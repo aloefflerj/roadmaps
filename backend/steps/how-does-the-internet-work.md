@@ -39,7 +39,10 @@ First, you'll need to use the web browser on your computer. When you enter the U
 
 Data that is transmitted over the Internet is sent in small pieces called **packets**. These packets are routed to their destination through different network devices (routers or switches). When they reach their destination, the packets are reassembled into the information that was requested.
 
-[*data flowing and reassembling at the user’s end*]
+![code-guy-explaining3](https://github.com/aloefflerj/roadmaps/assets/51006938/3e1d7f6f-886e-43ba-be67-0642a00700c9)
+![reassembling-packets](https://github.com/aloefflerj/roadmaps/assets/51006938/e0c851ee-e787-4aa8-8a2f-6db0183619e7)
+
+---
 
 The data being transferred passes through a series of protocols that are organized into layers. The layers of the TCP/IP model are:
 
