@@ -1,6 +1,5 @@
 ## How does the internet work?
 
-![cod-guy-explaining](https://raw.githubusercontent.com/aloefflerj/roadmaps/main/backend/imgs/code-guy-explaining.png)
 ![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
 
 The Internet is a global network of computers. It is a network of smaller networks connected by a series of standardized protocols.
