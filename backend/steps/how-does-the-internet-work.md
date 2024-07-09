@@ -1,18 +1,18 @@
 ## How does the internet work?
 
-The Internet is a global network of computers.
+The Internet is the global network of computers.
 
 ![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
 ![network](https://github.com/aloefflerj/roadmaps/assets/51006938/9b3c6696-1943-4ae3-b5da-8aa81d3500ee)
 
 It is a network of smaller networks connected by a series of standardized protocols.
 
-![cod-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
+![code-guy-explaining3](https://github.com/aloefflerj/roadmaps/assets/51006938/3e1d7f6f-886e-43ba-be67-0642a00700c9)
 ![sending-file-network](https://github.com/aloefflerj/roadmaps/assets/51006938/d6e888a3-06e7-4aa3-a26a-b936f270fc41)
 
 These networks are connected by a complex network of routers and switches.
 
-![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
+![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
 ![routers-and-switches](https://github.com/aloefflerj/roadmaps/assets/51006938/c2394c12-93a7-40ca-8824-8c999b365b34)
 
 There are undersea cables that form the backbone of the internet. These are fiber optic cables that run deep under the ocean and are used to transmit data between continents.
