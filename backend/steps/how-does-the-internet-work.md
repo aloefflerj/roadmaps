@@ -71,7 +71,7 @@ When you type [https://random.cat/view/500](https://random.cat/view/500), your b
 Now that we know the IP, the browser establishes a connection using the TCP/IP protocol. This reliable communication is called a “handshake”.
 
 ![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
-![handshake](https://github.com/aloefflerj/roadmaps/assets/51006938/5ab2a61b-9afd-47a3-9efb-7f0f48cf64ca)
+![handshake](https://github.com/aloefflerj/roadmaps/assets/51006938/3295a3cd-2e95-4f6b-abe5-53d1e8d7a7c2)
 
 ---
 
