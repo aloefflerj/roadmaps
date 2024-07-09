@@ -28,7 +28,7 @@ There are undersea cables that form the backbone of the internet. These are fibe
 
 ---
 
-So, let's say you want to access the given website: https://random.cat/view/500.
+So, let's say you want to access the given website: [https://random.cat/view/500](https://random.cat/view/500).
 
 First, you'll need to use the web browser on your computer. When you enter the URL address you want to access, you make a request to the server. In this case, your web browser is considered the **client**, and the computer that will respond to the request is the **server**.
 
@@ -56,7 +56,7 @@ The data being transferred passes through a series of protocols that are organiz
 
 ---
 
-When you type https://random.cat/view/500, your browser sends a request to the Domain Name System (DNS). The system is like a phone book for the internet. It translates the domain name into an IP address, a unique number that identifies a server on the internet. This is done by the application layer.
+When you type [https://random.cat/view/500](https://random.cat/view/500), your browser sends a request to the Domain Name System (DNS). The system is like a phone book for the internet. It translates the domain name into an IP address, a unique number that identifies a server on the internet. This is done by the application layer.
 
 ![code-guy-explaining3](https://github.com/aloefflerj/roadmaps/assets/51006938/3e1d7f6f-886e-43ba-be67-0642a00700c9)
 ![dns](https://github.com/aloefflerj/roadmaps/assets/51006938/21ee89b8-1ae4-4b2d-99b4-17d483d36b12)
