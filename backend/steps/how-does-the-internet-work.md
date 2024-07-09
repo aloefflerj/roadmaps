@@ -72,8 +72,8 @@ Now that we know the IP, the browser establishes a connection using the TCP/IP p
 
 Now that we have established reliable communication, the HTTP protocol can fetch resources from the server. HTTP is the basis for all data exchange on the web, and is an application layer protocol that is sent over TCP, or over a TLS-encrypted TCP connection. It is used to fetch documents, images, and videos. It is also used to post content to servers.
 
-[http fetching data from the server]
-
 The server will now handle your request and send back the content you requested. The data will be sent via packets that will be reassembled on the client side.
 
-[reassambling data into the cat image]
+![code-guy-explaining3](https://github.com/aloefflerj/roadmaps/assets/51006938/3e1d7f6f-886e-43ba-be67-0642a00700c9)
+![reassembling-packets-flipped](https://github.com/aloefflerj/roadmaps/assets/51006938/a3459817-a9d3-44b1-b619-d8afbfeb1ab5)
+
