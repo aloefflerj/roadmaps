@@ -58,7 +58,10 @@ The data being transferred passes through a series of protocols that are organiz
 
 When you type https://random.cat/view/500, your browser sends a request to the Domain Name System (DNS). The system is like a phone book for the internet. It translates the domain name into an IP address, a unique number that identifies a server on the internet. This is done by the application layer.
 
-[domain being transformed into ip]
+![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
+![dns](https://github.com/aloefflerj/roadmaps/assets/51006938/21ee89b8-1ae4-4b2d-99b4-17d483d36b12)
+
+---
 
 Now that we know the IP, the browser establishes a connection using the TCP/IP protocol. This reliable communication is called a “handshake”.
 
