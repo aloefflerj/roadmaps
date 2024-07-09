@@ -7,7 +7,7 @@ The Internet is a global network of computers.
 
 It is a network of smaller networks connected by a series of standardized protocols.
 
-![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
+![cod-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
 ![sending-file-network](https://github.com/aloefflerj/roadmaps/assets/51006938/d6e888a3-06e7-4aa3-a26a-b936f270fc41)
 
 These networks are connected by a complex network of routers and switches.
