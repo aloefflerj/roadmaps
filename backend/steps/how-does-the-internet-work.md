@@ -51,7 +51,10 @@ The data being transferred passes through a series of protocols that are organiz
 - Internet layer;
 - Network access layer.
 
-[*layers*]
+![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
+![layers](https://github.com/aloefflerj/roadmaps/assets/51006938/bcba1952-1981-4f19-92ec-5a6a31464faa)
+
+---
 
 When you type https://random.cat/view/500, your browser sends a request to the Domain Name System (DNS). The system is like a phone book for the internet. It translates the domain name into an IP address, a unique number that identifies a server on the internet. This is done by the application layer.
 
