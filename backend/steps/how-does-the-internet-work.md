@@ -17,7 +17,8 @@ These networks are connected by a complex network of routers and switches.
 
 There are undersea cables that form the backbone of the internet. These are fiber optic cables that run deep under the ocean and are used to transmit data between continents.
 
-[*cables on the ocean floor*]
+![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
+![seafloor-cable](https://github.com/aloefflerj/roadmaps/assets/51006938/e4a95ca7-5bf6-4c69-8578-c4d17f8842a9)
 
 So, let's say you want to access the given website: https://random.cat/view/500.
 
