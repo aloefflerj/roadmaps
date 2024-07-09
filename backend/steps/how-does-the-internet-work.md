@@ -2,9 +2,13 @@
 
 ![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
 
-The Internet is a global network of computers. It is a network of smaller networks connected by a series of standardized protocols.
+The Internet is a global network of computers.
 
-[*pixel art of computers communicating*]
+![network](https://github.com/aloefflerj/roadmaps/assets/51006938/9b3c6696-1943-4ae3-b5da-8aa81d3500ee)
+
+It is a network of smaller networks connected by a series of standardized protocols.
+
+![sending-file-network](https://github.com/aloefflerj/roadmaps/assets/51006938/d6e888a3-06e7-4aa3-a26a-b936f270fc41)
 
 These networks are connected by a complex network of routers and switches. There are undersea cables that form the backbone of the internet. These are fiber optic cables that run deep under the ocean and are used to transmit data between continents.
 
