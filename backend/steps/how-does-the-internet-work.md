@@ -38,7 +38,7 @@ So, let's say you want to access the given website: [https://random.cat/view/500
 First, you'll need to use the web browser on your computer. When you enter the URL address you want to access, you make a request to the server. In this case, your web browser is considered the **client**, and the computer that will respond to the request is the **server**.
 
 ![code-guy-explaining3](https://github.com/aloefflerj/roadmaps/assets/51006938/3e1d7f6f-886e-43ba-be67-0642a00700c9)
-![client-server](https://github.com/aloefflerj/roadmaps/assets/51006938/6c63071f-f946-4cac-ba49-2ae7f87fa33f)
+![client-server](https://github.com/aloefflerj/roadmaps/assets/51006938/43632263-8007-45a4-9c65-113904042c1f)
 
 ---
 
