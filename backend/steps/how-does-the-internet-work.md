@@ -56,8 +56,8 @@ The data being transferred passes through a series of protocols that are organiz
 - Internet layer;
 - Network access layer.
 
-![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
-![layers](https://github.com/aloefflerj/roadmaps/assets/51006938/bcba1952-1981-4f19-92ec-5a6a31464faa)
+![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
+![layers-unpacking](https://github.com/aloefflerj/roadmaps/assets/51006938/e6d8b6bb-ff7f-4e65-83ed-39082a830ec9)
 
 ---
 
