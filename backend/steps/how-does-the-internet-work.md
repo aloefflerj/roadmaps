@@ -65,7 +65,10 @@ When you type https://random.cat/view/500, your browser sends a request to the D
 
 Now that we know the IP, the browser establishes a connection using the TCP/IP protocol. This reliable communication is called a “handshake”.
 
-[handshake tcp/ip]
+![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
+![handshake](https://github.com/aloefflerj/roadmaps/assets/51006938/5ab2a61b-9afd-47a3-9efb-7f0f48cf64ca)
+
+---
 
 Now that we have established reliable communication, the HTTP protocol can fetch resources from the server. HTTP is the basis for all data exchange on the web, and is an application layer protocol that is sent over TCP, or over a TLS-encrypted TCP connection. It is used to fetch documents, images, and videos. It is also used to post content to servers.
 
