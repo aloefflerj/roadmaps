@@ -76,17 +76,17 @@ A response HTTP example with headers:
 
 While many headers may not be necessary for everyday use, some are particularly important. The Status Code header provides information about the status of the HTTP communication. The server can inform the client whether a request was successful by the status code it returns. These codes are divided into ranges, each representing different types of responses:
 
-- 1xx: Informational
-- 2xx: Success
-- 3xx: Redirection
-- 4xx: Client Error
-- 5xx: Server Error
+- **1xx**: _Informational_
+- **2xx**: _Success_
+- **3xx**: _Redirection_
+- **4xx**: _Client Error_
+- **5xx**: _Server Error_
 
 ![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
 
 Some examples include:
-- 200: OK
-- 404: Not Found
-- 500: Internal Server Error
+- **200**: _OK_
+- **404**: _Not Found_
+- **500**: _Internal Server Error_
 
 ![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
