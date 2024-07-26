@@ -61,7 +61,7 @@ A response HTTP example with headers:
 < HTTP/2 301 
 < location: https://www.google.com/
 < content-type: text/html; charset=UTF-8
-< content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-rJ4qMngeqlqn_b2WoInGgw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+< content-security-policy-report-only: object-src 'none'
 < date: Fri, 26 Jul 2024 00:56:58 GMT
 < expires: Sun, 25 Aug 2024 00:56:58 GMT
 < cache-control: public, max-age=2592000
