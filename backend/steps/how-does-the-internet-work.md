@@ -52,7 +52,7 @@ When you type [https://random.cat/view/500](https://random.cat/view/500) your br
 ![code-guy-explaining3](https://github.com/aloefflerj/roadmaps/assets/51006938/3e1d7f6f-886e-43ba-be67-0642a00700c9)
 ![dns](https://github.com/aloefflerj/roadmaps/assets/51006938/21ee89b8-1ae4-4b2d-99b4-17d483d36b12)
 
-Now that we know the IP, the browser establishes a connection using the TCP/IP protocol. This **reliable communication** is called a _**handshake**_.
+Knowing the IP, the browser establishes a connection using the TCP/IP protocol. This **reliable communication** is called a _**handshake**_.
 
 ![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
 ![handshake](https://github.com/aloefflerj/roadmaps/assets/51006938/3295a3cd-2e95-4f6b-abe5-53d1e8d7a7c2)
