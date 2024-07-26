@@ -74,7 +74,7 @@ A response HTTP example with headers:
 
 ![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
 
-While many headers may not be necessary for everyday use, some are particularly important. The Status Code header provides information about the status of the HTTP communication. The server can inform the client whether a request was successful by the status code it returns. These codes are divided into ranges, each representing different types of responses:
+While many headers may not be necessary for everyday use, some are particularly important. **The Status Code** header provides information about the status of the HTTP communication. The server can inform the client whether a request was successful by the status code it returns. These codes are divided into ranges, each representing different types of responses:
 
 - **1xx**: _Informational_
 - **2xx**: _Success_
