@@ -4,7 +4,7 @@
 
 ![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
 
-It is a web **application layer protocol** that uses the **TCP protocol**. It is used as the **client/server model**, with requests and responses. It follows the **client-server model**, with **requests** and **responses**.
+It is a web **application layer protocol** that uses the **TCP protocol**. It follows the **client-server model**, with **requests** and **responses**.
 
 ![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
 
