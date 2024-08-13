@@ -4,7 +4,19 @@ An _array_ is a collection of items that are stored **consecutively** in the mem
 
 ![code-guy-explaining](https://github.com/aloefflerj/roadmaps/assets/51006938/d4300ff4-65c4-410c-b133-27578f79f942)
 
-It has a series of **memory locations** called **boxes**.
+It has a series of **memory locations** called **boxes**. For example, I can store 3 _integers_ of the size of 2 _bytes_ each in an array. See the `rust` code below:
+```rs
+let array: [i16; 3] = [1, 2, 3];
+// i16 represents an integer of 8 bytes size
+```
+
+Each item will occupy a box of 2 _bytes_:
+
+```md
+   1     2     3
+[=][=][=][=][=][=][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ][ ]
+```
 
 ![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
 
