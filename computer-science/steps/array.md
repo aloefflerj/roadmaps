@@ -13,9 +13,8 @@ let array: [i16; 3] = [1, 2, 3];
 Each item will occupy a box of 2 _bytes_:
 
 ```md
-   1     2     3
-[=][=][=][=][=][=][ ][ ][ ]
-[ ][ ][ ][ ][ ][ ][ ][ ][ ]
+[+][+][+][+][+][+][-][-][-]
+[-][-][-][-][-][-][-][-][-]
 ```
 
 ![code-guy-explaining2](https://github.com/aloefflerj/roadmaps/assets/51006938/b51da748-8b5a-4ff5-bfbb-bbef48ba1de3)
